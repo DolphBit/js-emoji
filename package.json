@@ -10,7 +10,7 @@
     "lib"
   ],
   "dependencies": {
-    "emoji-datasource": "15.0.1"
+    "emoji-datasource": "15.1.0"
   },
   "devDependencies": {
     "jasmine-core": "~3.7",
