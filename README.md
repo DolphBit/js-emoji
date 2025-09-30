@@ -1,4 +1,8 @@
-# js-emoji - Display emoji in the browser, everywhere
+# Fork of js-emoji
+
+This is a fork which uses the latest `emoji-datasource` v`16.0.0`. 🚀
+
+## js-emoji - Display emoji in the browser, everywhere
 
 <span class="badge-npmversion"><a href="https://npmjs.org/package/emoji-js" title="View this project on NPM"><img src="https://img.shields.io/npm/v/emoji-js.svg" alt="NPM version" /></a></span>
 <span class="badge-npmdownloads"><a href="https://npmjs.org/package/emoji-js" title="View this project on NPM"><img src="https://img.shields.io/npm/dm/emoji-js.svg" alt="NPM downloads" /></a></span>
